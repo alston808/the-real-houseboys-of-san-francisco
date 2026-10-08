@@ -1,0 +1,132 @@
+{
+  "voices": {
+    "prest": "0f2fdfad679c454bb82be023104ba3ba",
+    "felix": "77974fed34614080a505a797bb96357b",
+    "marco": "5c8dc6a69c0b4edfb32634db6384bf34",
+    "dex": "638d1477f70a474eb13e0ec8ce6665c9",
+    "river": "7a18a1851d2649108c48ec9f2c80eb2c",
+    "ash": "7f6d9042c86c4ad19595729471cb1a84"
+  },
+  "files": {
+    "prest": {
+      "voice_id": "0f2fdfad679c454bb82be023104ba3ba",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/prest_confessional_1.wav",
+          "bytes": 1323052
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/prest_confessional_2.wav",
+          "bytes": 1196076
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/prest_confessional_3.wav",
+          "bytes": 786476
+        }
+      ]
+    },
+    "felix": {
+      "voice_id": "77974fed34614080a505a797bb96357b",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/felix_confessional_1.wav",
+          "bytes": 868396
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/felix_confessional_2.wav",
+          "bytes": 958508
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/felix_confessional_3.wav",
+          "bytes": 651308
+        }
+      ]
+    },
+    "marco": {
+      "voice_id": "5c8dc6a69c0b4edfb32634db6384bf34",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/marco_confessional_1.wav",
+          "bytes": 999468
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/marco_confessional_2.wav",
+          "bytes": 667692
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/marco_confessional_3.wav",
+          "bytes": 561196
+        }
+      ]
+    },
+    "dex": {
+      "voice_id": "638d1477f70a474eb13e0ec8ce6665c9",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/dex_confessional_1.wav",
+          "bytes": 802860
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/dex_confessional_2.wav",
+          "bytes": 983084
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/dex_confessional_3.wav",
+          "bytes": 733228
+        }
+      ]
+    },
+    "river": {
+      "voice_id": "7a18a1851d2649108c48ec9f2c80eb2c",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/river_confessional_1.wav",
+          "bytes": 1515564
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/river_confessional_2.wav",
+          "bytes": 1609772
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/river_confessional_3.wav",
+          "bytes": 753708
+        }
+      ]
+    },
+    "ash": {
+      "voice_id": "7f6d9042c86c4ad19595729471cb1a84",
+      "beats": [
+        {
+          "beat": 1,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/ash_confessional_1.wav",
+          "bytes": 1392684
+        },
+        {
+          "beat": 2,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/ash_confessional_2.wav",
+          "bytes": 1224748
+        },
+        {
+          "beat": 3,
+          "path": "/home/alston/books/the-real-houseboys-of-san-francisco/outputs/confessionals/ash_confessional_3.wav",
+          "bytes": 1052716
+        }
+      ]
+    }
+  }
+}
