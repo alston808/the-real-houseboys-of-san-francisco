@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project directories
+SadTalker/
+Wan2.2-S2V/
+Wav2Lip/
+outputs/
+.poolside/
